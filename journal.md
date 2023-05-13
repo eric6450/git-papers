@@ -18,3 +18,6 @@ Add results section
 Switch to the 'git-papers' directory
 
 Write Conclusions
+
+Change order of the authors
+
