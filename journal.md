@@ -18,3 +18,7 @@ Add results section
 Switch to the 'git-papers' directory
 
 Write Conclusions
+
+Add author affiliations
+
+
